@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This is some extra text used in one of the exercise
+
+## Copyright
+
+2015 Git.Training
