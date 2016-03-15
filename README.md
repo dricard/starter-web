@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 
 This is some extra text used in one of the exercise
 
+## How to contribute
+
+Please fork this repo and send a pull request
+
 ## Copyright
 
 2015 Git.Training
